@@ -7,3 +7,8 @@ link to folder
 
 
 /c/Users/glads/Downloads/grocery-store-react/grocery-store
+
+link to codecademy lesson
+https://www.codecademy.com/courses/react-101/lessons/this-props/exercises/props-recap
+
+
