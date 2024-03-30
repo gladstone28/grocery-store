@@ -1,12 +1,17 @@
+// App.js
 
-import './App.css';
+import React from 'react';
+import GroceryItem from './GroceryItem';
 
 function App() {
-  return (
-    <div className="App">
-<h1>Gladstone Rose</h1>
-    </div>
-  );
+    return (
+        <div>
+            <GroceryItem name="Eggs" />
+            <GroceryItem name="Banana" />
+            <GroceryItem name="Strawberry" />
+            <GroceryItem name="Bread" />
+        </div>
+    );
 }
 
 export default App;
